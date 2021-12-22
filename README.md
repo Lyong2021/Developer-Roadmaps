@@ -10,35 +10,35 @@ Thanks to Kamran Ahmed
 
 #####  Android Developer Roadmaps
 
-![Android Developer Roadmaps](./Android Developer Roadmaps.svg)
+![Android Developer Roadmaps](https://raw.githubusercontent.com/Lyong2021/Developer-Roadmaps/d18942188c9285c458fafb0a3e6b3c29fa013280/Android%20Developer%20Roadmaps.svg)
 
 ##### Angular Developer Roadmap
 
-![Angular Developer Roadmap](./Angular Developer Roadmap.png)
+![Angular Developer Roadmap](https://raw.githubusercontent.com/Lyong2021/Developer-Roadmaps/master/Angular%20Developer%20Roadmap.png)
 
 ##### Backend  Roadmaps
 
-![Backend Roadmaps](./Backend Roadmaps.png)
+![Backend Roadmaps](https://raw.githubusercontent.com/Lyong2021/Developer-Roadmaps/master/Backend%20Roadmaps.png)
 
 ##### DevOps Roadmap
 
-![DevOps Roadmap](./DevOps Roadmap.png)
+![DevOps Roadmap](https://raw.githubusercontent.com/Lyong2021/Developer-Roadmaps/master/DevOps%20Roadmap.png)
 
 ##### Go Developer Roadmaps
 
-![Go Developer Roadmaps](./Go Developer Roadmaps.png)
+![Go Developer Roadmaps](https://raw.githubusercontent.com/Lyong2021/Developer-Roadmaps/master/Go%20Developer%20Roadmaps.png)
 
 ##### Java Developer Roadmaps
 
-![Java Developer Roadmaps](./Java Developer Roadmaps.png)
+![Java Developer Roadmaps](https://github.com/Lyong2021/Developer-Roadmaps/blob/master/Java%20Developer%20Roadmaps.png)
 
 #####  Python Developer Roadmaps
 
-![Python Developer Roadmaps](./Python Developer Roadmaps.png)
+![Python Developer Roadmaps](https://raw.githubusercontent.com/Lyong2021/Developer-Roadmaps/master/Python%20Developer%20Roadmaps.png)
 
 ##### React Developer Roadmaps
 
-![React Developer Roadmaps](./React Developer Roadmaps.png)
+![React Developer Roadmaps](https://raw.githubusercontent.com/Lyong2021/Developer-Roadmaps/master/React%20Developer%20Roadmaps.png)
 
 
 
